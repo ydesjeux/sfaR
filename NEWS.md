@@ -1,5 +1,5 @@
 # sfaR 1.0.0
-Changes in 'sfaR' version to 1.0.0 (2023-05-05).
+Changes in 'sfaR' version to 1.0.0 (2023-06-13).
 
 ## NEW FEATURES
 
@@ -7,8 +7,6 @@ Changes in 'sfaR' version to 1.0.0 (2023-05-05).
 `sfaselectioncross`.
 
 * `texreg` package can be used for results output.
-
-* Arne Henningsen is a new author to the package.
 
 * Robust variance-covariance matrix can be obtained using `lmtest` package.
 
@@ -29,6 +27,8 @@ modified accordingly to the new class `sfalcmcross`.
 ## OTHER USER-VISIBLE CHANGES
 
 * Package maintainer has changed from Yann Desjeux to K Hervé Dakpo.
+
+* Arne Henningsen is now added as a new author of the package. Welcome onboard!
 
 * Remove dependencies to packages `dplyr`, `emdbook`, `fBasics`, `gsl`, `MASS`,
 `moments`, `numDeriv`, and `primes`.
